@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anthitariel
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning Angular.
-- 💞️ I’m looking to collaborate on Angular projects.
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me - telegram @anthitariel
 
 <!---
