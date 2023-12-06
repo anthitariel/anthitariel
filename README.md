@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a focus o
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/anfisadomashova/).
 
 ## My Stack
-### Skills and Technologies
-JavaScript, React.js, Next.js, TypeScript, AngularJS, HTML, BEM, CSS/LESS/SASS, Tailwind CSS, GitHub/Gitlab, Figma/Photoshop, Agile, Jira, Formik, Sourcetree, Pattern Lab, Mustache, Microsoft Visual Studio Code, E-Commerce, SEO, ThemeForest/GoDaddy/WordPress
+Skills and Technologies: JavaScript, React.js, Next.js, TypeScript, AngularJS, HTML, BEM, CSS/LESS/SASS, Tailwind CSS, GitHub/Gitlab, Figma/Photoshop, Agile, Jira, Formik, Sourcetree, Pattern Lab, Mustache, Microsoft Visual Studio Code, E-Commerce, SEO, ThemeForest/GoDaddy/WordPress
 
 ## Location
 Originally from Ukraine, I currently reside in Romania.
