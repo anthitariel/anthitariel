@@ -9,34 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a focus o
 
 ## My Stack
 ### Skills and Technologies
-- JavaScript
-- React.js
-- Next.js
-- TypeScript
-- AngularJS
-- HTML
-- BEM
-- CSS/LESS/SASS
-- Tailwind CSS
-- GitHub/Gitlab
-- Figma/Photoshop
-- Agile
-- Jira
-- Formik
-- Sourcetree
-- Pattern Lab
-- Mustache
-- Microsoft Visual Studio Code
-- E-Commerce
-- SEO
-- ThemeForest/GoDaddy/WordPress
-
-### Certification
-- Coursera AngularJS
-- EF SET English Certificate 63/100 (C1)
-- Codecademy Interactive 2022
-- Codecademy JavaScript 2021
-- WayUp Landing Page 2021
+JavaScript, React.js, Next.js, TypeScript, AngularJS, HTML, BEM, CSS/LESS/SASS, Tailwind CSS, GitHub/Gitlab, Figma/Photoshop, Agile, Jira, Formik, Sourcetree, Pattern Lab, Mustache, Microsoft Visual Studio Code, E-Commerce, SEO, ThemeForest/GoDaddy/WordPress
 
 ## Location
 Originally from Ukraine, I currently reside in Romania.
