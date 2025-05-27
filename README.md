@@ -1,14 +1,11 @@
 # Hi there! 👋 I'm Anthitariel
 
-Welcome to my GitHub profile! I'm a passionate Software Developer with a focus on creating engaging user experiences. Currently, I'm diving into the world of Front-end Development and expanding my skill set to craft dynamic and interactive web applications.
+Welcome to my GitHub profile! 
 
 ## About Me
 - 👀 I'm deeply interested in exciting and innovative projects, always exploring new technologies and trends.
 - 🌱 I'm currently learning Angular to enhance my skills and bring more versatility to my projects.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/anfisadomashova/).
-
-## My Stack
-Skills and Technologies: JavaScript, React.js, Next.js, TypeScript, AngularJS, HTML, BEM, CSS/LESS/SASS, Tailwind CSS, GitHub/Gitlab, Figma/Photoshop, Agile, Jira, Formik, Sourcetree, Pattern Lab, Mustache, Microsoft Visual Studio Code, E-Commerce, SEO, ThemeForest/GoDaddy/WordPress
 
 ## Location
 Originally from Ukraine, I currently reside in Romania.
