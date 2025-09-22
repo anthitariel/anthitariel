@@ -4,8 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 - 👀 I'm deeply interested in exciting and innovative projects, always exploring new technologies and trends.
-- 🌱 I'm currently learning Angular to enhance my skills and bring more versatility to my projects.
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/anfisadomashova/).
+- 📫 You can reach me on Telegram @anthitariel
 
 ## Location
 Originally from Ukraine, I currently reside in Romania.
