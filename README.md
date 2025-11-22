@@ -6,7 +6,6 @@ Welcome to my GitHub profile!
 - 📫 You can reach me on Telegram @anthitariel
 
 ## Location
-Originally from Ukraine
 Feel free to explore my repositories, and don't hesitate to connect with me. Let's build something amazing together.
 
 <!---
