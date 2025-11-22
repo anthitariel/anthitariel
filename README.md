@@ -1,13 +1,12 @@
-# Hi there! 👋 I'm Anthitariel
-
+# Hi there! 👋 
 Welcome to my GitHub profile! 
 
-## About Me
+## About me
 - 👀 I'm deeply interested in exciting and innovative projects, always exploring new technologies and trends.
 - 📫 You can reach me on Telegram @anthitariel
 
 ## Location
-Originally from Ukraine, I currently reside in Romania.
+Originally from Ukraine
 Feel free to explore my repositories, and don't hesitate to connect with me. Let's build something amazing together.
 
 <!---
